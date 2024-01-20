@@ -1,0 +1,8 @@
+.outerdiv{
+padding: 10%;
+background-color: aliceblue;
+}
+.innerdiv{
+background-color: gainsboro;
+    padding: 5%;
+}
